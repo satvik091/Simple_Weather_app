@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 from datetime import datetime
 
+
 # OpenWeatherMap API key
 API_KEY = 'a14ceacd0266018467616e80f1003594'  # Your actual API key
 
